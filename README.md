@@ -40,5 +40,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/priyanshusrivastava01/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2235-add-two-integers](https://github.com/priyanshusrivastava01/leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
