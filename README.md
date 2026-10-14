@@ -100,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyanshusrivastava01/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/priyanshusrivastava01/leetcode/tree/main/0344-reverse-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/priyanshusrivastava01/leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
