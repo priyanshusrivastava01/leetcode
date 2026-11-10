@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/priyanshusrivastava01/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/priyanshusrivastava01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshusrivastava01/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/priyanshusrivastava01/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshusrivastava01/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/priyanshusrivastava01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/priyanshusrivastava01/leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
