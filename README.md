@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/priyanshusrivastava01/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/priyanshusrivastava01/leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/priyanshusrivastava01/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
