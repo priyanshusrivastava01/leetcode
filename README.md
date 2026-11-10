@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/priyanshusrivastava01/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0217-contains-duplicate](https://github.com/priyanshusrivastava01/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshusrivastava01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshusrivastava01/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/priyanshusrivastava01/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/priyanshusrivastava01/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/priyanshusrivastava01/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/priyanshusrivastava01/leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting Sort
